@@ -1,6 +1,6 @@
 {
 	"name": "diamondking-in-frontend",
-	"description": "A template for building a React application with Vite, Hono, and Cloudflare Workers",
+	"description": "Diamondking Chemicals Landing Page",
 	"cloudflare": {
 		"label": "Vite React Template",
 		"products": [

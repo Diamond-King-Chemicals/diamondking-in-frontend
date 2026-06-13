@@ -18,7 +18,7 @@ export default function Contact() {
             <p className="contact-desc">
               Reach out to us for inquiries, quotes, or to learn more about our premium range of products.
             </p>
-            
+
             <div className="info-cards">
               <div className="info-card glass">
                 <div className="info-icon-wrapper text-orange">
@@ -26,7 +26,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="info-title">Our Office</h4>
-                  <p className="info-detail">123 Diamond Avenue, Industrial Area, City 400001</p>
+                  <p className="info-detail">Pusa, Samastipur, Bihar</p>
                 </div>
               </div>
 
@@ -36,7 +36,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="info-title">Phone</h4>
-                  <p className="info-detail">+91 98765 43210</p>
+                  <p className="info-detail">+91 87890 66233</p>
                 </div>
               </div>
 
@@ -46,7 +46,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="info-title">Email</h4>
-                  <p className="info-detail">info@diamondking.com</p>
+                  <p className="info-detail">contact@diamondking.com</p>
                 </div>
               </div>
 
@@ -69,7 +69,7 @@ export default function Contact() {
                 <label htmlFor="name">Full Name</label>
                 <input type="text" id="name" placeholder="John Doe" required />
               </div>
-              
+
               <div className="form-group">
                 <label htmlFor="email">Email Address</label>
                 <input type="email" id="email" placeholder="john@example.com" required />

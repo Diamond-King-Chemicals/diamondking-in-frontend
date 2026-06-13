@@ -16,15 +16,15 @@
 .info-cards {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 1.5rem;
+  gap: 1.0rem
 }
 
 .info-card {
-  padding: 1.5rem;
+  padding: 1.0px;
   border-radius: var(--radius-lg);
   display: flex;
   gap: 1rem;
-  align-items: flex-start;
+  align-items: center;
   transition: transform 0.2s ease;
 }
 

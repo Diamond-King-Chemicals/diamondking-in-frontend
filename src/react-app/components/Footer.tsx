@@ -22,7 +22,7 @@ export default function Footer() {
               <a href="#" className="social-link"><LinkIcon size={20} /></a>
             </div>
           </div>
-          
+
           <div className="footer-col">
             <h3 className="footer-title">Quick Links</h3>
             <ul className="footer-links">
@@ -32,7 +32,7 @@ export default function Footer() {
               <li><Link to="/">Products</Link></li>
             </ul>
           </div>
-          
+
           <div className="footer-col">
             <h3 className="footer-title">Our Brands</h3>
             <ul className="footer-links">
@@ -47,15 +47,15 @@ export default function Footer() {
             <ul className="contact-info">
               <li>
                 <MapPin size={18} className="contact-icon" />
-                <span>123 Diamond Avenue, Industrial Area</span>
+                <span>Pusa, Samastipur, Bihar</span>
               </li>
               <li>
                 <Phone size={18} className="contact-icon" />
-                <span>+91 98765 43210</span>
+                <span>+91 87890 66233</span>
               </li>
               <li>
                 <Mail size={18} className="contact-icon" />
-                <span>info@diamondking.com</span>
+                <span>contact@diamondking.com</span>
               </li>
             </ul>
           </div>
